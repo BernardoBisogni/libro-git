@@ -1,0 +1,8 @@
+índice del libro 
+
+capitulo 1 : introducción a git
+capitulo 2 : flujo de trabajo básico
+capitulo 3 : gestión de ramas
+capitulo 4 :repositorios remotos
+capitulo 5 : la venganza
+capitulo 6 : la venganza se srive en un plato frio
